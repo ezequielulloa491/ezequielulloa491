@@ -36,7 +36,7 @@ Aplicación web con un chatbot simple conectando frontend y backend.
 Mi portafolio personal donde presento mis proyectos y habilidades.
 
 🔗 Ver portafolio:  
-👉 https://ezequiellulloa491.github.io/portfolio2/
+👉 https://ezequielulloa491.github.io/portfolio2/
 
 ---
 
